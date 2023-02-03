@@ -13,6 +13,12 @@ This script will install ROS2 foxy desktop pre buildt and the nessesary libaries
 
 This script will sett up the Eve environment inculding the gazebo simulation tool. 
 
+## Eve_devInstall
+
+This script finaly clone this rpo and add it to the workspace befour rebuilding. 
+
+The workspace should now be ready or executing premade scripsts.
+
 ## CommondComands.txt
 
 A short text file collecting some of my most used commands
