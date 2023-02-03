@@ -1,0 +1,14 @@
+## Colection of common ROS2 Eve Comandoes 
+##
+## Author  : Martin Økter
+## Date    : 27.01.2023
+## Place   : UiA Grimstad
+##
+## Co-author : Katrine Hansen
+##
+
+## Launch Gazebo Environment 
+ros2 launch halodi-controller-gazebo halodi-controller-gazebo.launch.py
+
+## Start wwave right hand node
+ros2 run eve_ros2_examples wave_right_hand
