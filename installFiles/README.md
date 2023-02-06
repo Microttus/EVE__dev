@@ -15,9 +15,13 @@ This script will sett up the Eve environment inculding the gazebo simulation too
 
 ## Eve_devInstall
 
-This script finaly clone this rpo and add it to the workspace befour rebuilding. 
+This script finaly clone this repository and add it to the workspace befour rebuilding. 
 
 The workspace should now be ready or executing premade scripsts.
+
+## launchSim
+
+A executable for lauching the simulation window
 
 ## CommondComands.txt
 
