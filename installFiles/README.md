@@ -3,16 +3,8 @@
 In this folder two files used for setting up ROS on the computer, and one seting up the enironment specificaly adapted to eve is found.
 In addition, a file containg some of the most used commandlines are included.
 
-´´´diff
--[WARRNING:] This scripts are buildt for Unix Ubuntu
-´´´
-
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- [WARRNING:] This scripts are buildt for Unix Ubuntu
 ```
 ## ROSinstall
 
