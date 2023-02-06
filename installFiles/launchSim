@@ -1,0 +1,16 @@
+## Lanches gazebo installation
+## 
+## Author: Martin Økter 
+## Date  : 06.02.2023
+## Place : UiA Grimstad
+##
+
+## Move to environment
+cd ~/eve_ws
+
+## Source instalation .bash
+source install/setup.bash
+
+## Launch simulation
+ros2 launch halodi-controller-gazebo halodi-controller-gazebo.launch.py
+

@@ -1,7 +1,7 @@
 ## Install files for custom code for ROS2 Eve Environment
 ## 
 ## Author: Martin Økter 
-## Date  : 27.02.2023
+## Date  : 27.01.2023
 ## Place : UiA Grimstad
 ##
 ## Co-author: Katrione Hansen
@@ -11,7 +11,7 @@
 ## Move to environment
 cd ~/eve_ws/src
 
-## ## clone repo for git from Microttus
+## Clone repo for git from Microttus
 git clone https://github.com/Microttus/Eve_dev.git
 
 ## Building for testing
