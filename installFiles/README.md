@@ -6,6 +6,14 @@ In addition, a file containg some of the most used commandlines are included.
 ´´´diff
 -[WARRNING:] This scripts are buildt for Unix Ubuntu
 ´´´
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ## ROSinstall
 
 This script will install ROS2 foxy desktop pre buildt and the nessesary libaries for running ROS.
